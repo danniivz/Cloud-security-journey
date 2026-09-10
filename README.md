@@ -6,42 +6,40 @@ Documenting my path from zero technical background to Cloud Security Engineer, n
 
 ## Roadmap phases
 
+
 1. **F0 — Foundations**
    - Linux
    - Git/GitHub
-   - LLM Fundamentals
-   - ISC2 CC Certification
+   - LLM fundamentals
+   - ISC2 CC certification
 
-2. **F1 — Technical Fundamentals**
+2. **F1 — Technical fundamentals**
    - Python
-   - Networking
+   - networking
    - Docker
    - OWASP LLM Top 10
 
-3. **F2 — Cloud Core**
+3. **F2 — Cloud core**
    - AWS
    - IAM
    - Terraform
-   - Identity Federation
+   - identity federation
 
 4. **F3 — Kubernetes + CI/CD**
    - EKS
-   - CNAPP Tools
-   - Threat Modeling
+   - CNAPP tools
+   - threat modeling
 
-5. **F4 — Deep Specialization**
-   - Multi-Cloud
-   - AI/Agent Security
-   - Compliance
+5. **F4 — Deep specialization**
+   - Multi-cloud
+   - AI/agent security
+   - compliance
 
-6. **F5–F6 — Senior Track**
+6. **F5-F6 — Senior track**
    - CCSP
    - CISSP
-   - Open-Source Contributions
+   - open-source contributions
 
-## Progress log
-
-Check individual folders and commits for project writeups and notes as they're added.
 
 ## Contact
 
